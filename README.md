@@ -1,1 +1,1 @@
-# game_seabattle
+Game created using PHP and MYSQL
